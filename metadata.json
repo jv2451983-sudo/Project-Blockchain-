@@ -1,0 +1,6 @@
+{
+  "name": "Symposium Poster Studio",
+  "description": "Prepare, customize, and present publication-grade project posters with structured academic sections, data charts, and print-ready PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
